@@ -1,0 +1,3 @@
+1)	Flex-direction allows you to do what?
+
+The flex-direction CSS property sets how flex items are placed in the flex container defining the main axis and the direction (normal or reversed).
